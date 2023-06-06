@@ -17,6 +17,10 @@
   ],
   "files": ["dist"],
   "author": "634750802",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/634750802/react-layout-manager"
+  },
   "license": "MIT",
   "dependencies": {
     "clsx": "^1.2.1"
